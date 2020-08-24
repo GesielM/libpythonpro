@@ -11,7 +11,7 @@ Para instalar:
 
 ```console
 python3 -m venv.venv
-.venv/Scripts/activate
+source .venv/Scripts/activate
 pip install -r requirementes-dev.txt
 ```
 
